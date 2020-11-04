@@ -9,9 +9,9 @@ curl -I "$PREVIEW_URL"
 
 echo ""
 echo "##########################"
-echo "# Requesting it 600 times"
+echo "# Requesting 800 times. Please wait..."
 echo "##########################"
-printf "$PREVIEW_URL\n%.0s" {1..600} | xargs -P 20 -n 1 curl -s > /dev/null
+printf "$PREVIEW_URL\n%.0s" {1..800} | xargs -P 20 -n 1 curl -s > /dev/null
 
 echo ""
 echo "##########################"
