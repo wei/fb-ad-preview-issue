@@ -1,0 +1,11 @@
+name: run-example
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: bash eproduce-preview-issue.sh
