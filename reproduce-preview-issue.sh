@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PREVIEW_URL="https://www.facebook.com/ads/api/preview_iframe.php?d=AQLfStqbprGsFhvq-RTt4rAZPpaB42z-qlDH7wwLZA097JEXkfbk12IFSmuze6PfcaosfTz4PPEfGP7shfQ7bMrSjzK2IgveBsFuenmSKkYzJ8HhoJXpsQmdzbZxJFMxJ-CRbHlO_yhRl_sYUpLZbu19AIF5gQlfz7cy7PI9s5VwMqh-DHqlDGjHUESPF8aktobsVM3MK4NI4ikishDXl-i1EZsb9oWcbV25qg9HqoNsQN44pDcW9Tljdr1WhvCE4G-RJTAPyKkP6kj9khDrikTy9gJNnaeuSLWjqE0v48pfx034F7zNtSHbWGvoS62pgUfGIghrPHObPOyZcsUoFJqK&t=AQIHo-DpqqwvKz_eqUQ"
+PREVIEW_URL="https://www.facebook.com/ads/api/preview_iframe.php?d=AQI4Chq-DOFkCDd3v-vlomF1KDwUST8geg5cjFXp8nz0qMr-ocTWPYU1_h5X3hxlruldPhFEopk9xPe24wuPX4cdmGW1iPdIrGRrUizOC8hJmvQxY9adw4h9RUhd_eFULGDwEvUez9Sgs_kHtqth7WDeLMYCCdYho4r3vH8m4SVpcNsW7PZQ7fZA2nDshwcqBHhFVum4s7-oB7Ns6-26fkei_9VEBeLN0dT9mTFq2wQr0b5wlGb2rawP8a2qrQYPGqxU6JuCo8By4hIoHjagrT7QxTGfx4G8Ppqm9jLibqhdf8uDEFiCjRt4XxuEWorFuV2hA06jCJRVT9eXh5V3wNW2&t=AQLKjLbTWQxj0wmAXcc"
 
 echo "##########################"
 echo "# Initial Request (Should return status code 200)"
